@@ -1,0 +1,26 @@
+{
+  "name": "friendfinderredo",
+  "version": "1.0.0",
+  "description": "Personality matcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WileyLite/FriendFinder.git"
+  },
+  "keywords": [
+    "friend"
+  ],
+  "author": "Jalin Wiley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WileyLite/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/WileyLite/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
